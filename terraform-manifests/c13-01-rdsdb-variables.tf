@@ -21,7 +21,7 @@ variable "db_password" {
   description = "AWS RDS Database Administrator Password"
   type        = string
   sensitive   = true
-  default = "dbpassword11"
+  
 }
 
 
